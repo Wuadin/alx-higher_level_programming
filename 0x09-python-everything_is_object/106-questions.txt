@@ -1,9 +1,9 @@
 guillaume@ubuntu:/python3$ cat string.py 
-a = "HBTN"
-b = "HBTN"
+a = "SCHL"
+b = "SCHL"
 del a
 del b
-c = "HBTN"
+c = "SCHL"
 guillaume@ubuntu:/python3$ 
 Assuming we are using a CPython implementation of Python3 with default options/configuration:
 
